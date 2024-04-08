@@ -1,0 +1,118 @@
+.logo-image {
+    height: 40px;
+    width: 100%;
+}
+
+.card-image {
+    height: 100vh;
+    width: 100%;
+}
+.bg1-container {
+    background-color: white;
+}
+
+.top-heading {
+    color: black;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.top-paragraph {
+    color: #616c7c;
+    font-size: 18px;
+
+}
+
+.card {
+    text-align: center;
+}
+
+.card-image1 {
+    height: 100px;
+    width: 50%;
+}
+
+.card-heading {
+    color: black;
+    font-size: 18px;
+
+}
+
+.card-paragreaph {
+    color: #7b8794;
+    font-size: 12px;
+}
+.bg-container {
+    background-color: white;
+}
+
+.heading2 {
+    color: #183b56;
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.card1 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png');
+    background-size: cover;
+    height: 240px;
+    width: 90%;
+    border-radius: 15px;
+}
+
+.card-heading1 {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.paragraph {
+    color: white;
+    font-size: 12px;
+}
+
+.custom-button {
+    background-color: white;
+    padding: 5px;
+    color: #ff9f00;
+    border-radius: 25px;
+    width: 40%;
+    border-width: 0px;
+
+}
+
+.card_2 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png');
+    background-size: cover;
+    height: 240px;
+    width: 90%;
+    border-radius: 15px;
+
+}
+
+.anchor {
+    color: #ff9f00;
+    font-size: 16px;
+    text-align: center;
+    font-weight: bold;
+}
+.bg-container4 {
+    background-color: #f5f7fa;
+    text-align: center;
+}
+
+.heading5 {
+    color: #183b56;
+    font-size: 36px;
+    font-weight: bold;
+
+}
+
+.btn6 {
+    color: #ff9f00;
+    background-color: transparent;
+    padding: 10px;
+    border-style: solid;
+    border-color: #ff9f00;
+    border-width: 2px;
+}
